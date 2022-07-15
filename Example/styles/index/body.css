@@ -1,0 +1,24 @@
+@import url(/styles/index/carousel.css);
+@import url(/styles/index/compa.css);
+@import url(/styles/index/elegirnos.css);
+@import url(/styles/index/footer.css);
+@import url(/styles/index/header.css);
+@import url(/styles/index/mastandrea.css);
+html body {
+  left: 0;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+main {
+  background-color: #f4f4f4;
+  left: 0;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+}
+/*# sourceMappingURL=body.css.map */

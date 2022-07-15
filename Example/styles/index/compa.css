@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.compañias h1 {
+  text-transform: uppercase;
+  font-family: "Noto Sans", sans-serif;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  color: #483f56;
+  font-weight: 300;
+}
+
+.compañias .card {
+  height: 100px;
+  width: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  overflow: hidden;
+}
+/*# sourceMappingURL=compa.css.map */

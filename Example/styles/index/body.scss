@@ -1,0 +1,25 @@
+@import "/styles/_variables";
+@import url(/styles/index/carousel.css);
+@import url(/styles/index/compa.css);
+@import url(/styles/index/elegirnos.css);
+@import url(/styles/header.css);
+@import url(/styles/footer.css);
+@import url(/styles/index/mastandrea.css);
+
+html body {
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    background-color: $whitish-color;
+}
+
+main {
+    background-color: $whitish-color;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+}

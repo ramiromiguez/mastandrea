@@ -1,0 +1,48 @@
+.header {
+  overflow: hidden;
+  background-color: #f4f4f4;
+  height: 100px;
+}
+
+.header img {
+  float: left;
+  margin-bottom: 20px;
+}
+
+.header ul {
+  list-style-type: none;
+}
+
+.header li {
+  float: right;
+}
+
+.header a {
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+  color: #141414;
+  text-transform: capitalize;
+  padding-right: 10px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.header a:hover {
+  background-color: #483f56;
+  color: #f4f4f4;
+}
+
+@media screen and (max-width: 719px) {
+  .header {
+    height: 100%;
+  }
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
+}
+/*# sourceMappingURL=header.css.map */

@@ -1,0 +1,21 @@
+@import "_variables.scss";
+
+.compañias {
+
+    h1 {
+        text-transform: uppercase;
+        font-family: $font-noto;
+        margin-top: 4rem;
+        margin-bottom: 2rem;
+        color: $logo-color;
+        font-weight: 300;
+    }
+
+    .card {
+        height: 100px;
+        width: 100px;
+        display: flex;
+        justify-content: center;
+        overflow: hidden;
+    }
+}

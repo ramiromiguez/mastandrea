@@ -1,0 +1,44 @@
+.elegirnos .container-fluid {
+  background-color: #f4f4f4;
+}
+
+.elegirnos .razones {
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.elegirnos .card {
+  height: 370px;
+  width: 300px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #e5dfff;
+}
+
+.elegirnos .card h6 {
+  text-transform: uppercase;
+}
+
+.elegirnos .card img {
+  height: 230px;
+}
+
+.elegirnos .card p {
+  color: #141414;
+}
+
+.elegirnos .card:hover {
+  -webkit-transform: translateY(-15px);
+          transform: translateY(-15px);
+  -webkit-box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+}
+/*# sourceMappingURL=elegirnos.css.map */

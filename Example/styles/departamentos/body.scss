@@ -1,0 +1,22 @@
+@import "_variables.scss";
+@import url(/styles/departamentos/header.css);
+@import url(/styles/departamentos/footer.css);
+@import url(/styles/departamentos/contents.css);
+
+html body {
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    background-color: $whitish-color;
+}
+
+main {
+    background-color: $whitish-color;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+}

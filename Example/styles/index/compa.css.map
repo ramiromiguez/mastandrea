@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": ";AAEA,AAEI,UAFM,CAEN,EAAE,CAAC;EACC,cAAc,EAAE,SAAS;EACzB,WAAW,ECCP,WAAW,EACvB,UAAU;EDDF,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;EACnB,KAAK,ECTA,OAAe;EDUpB,WAAW,EAAE,GAAG;CACnB;;AATL,AAWI,UAXM,CAWN,KAAK,CAAC;EACF,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,QAAQ,EAAE,MAAM;CACnB",
+    "sources": [
+        "compa.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "compa.css"
+}
